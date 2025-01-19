@@ -4,7 +4,7 @@ This project explores gender dynamics among directors in European cinema during 
 
 Dataset Description
 
-The foundational dataset was derived from the LUMIERE database, which includes detailed records of films produced in Austria, Croatia, France, Germany, Italy, Sweden, and the United Kingdom between 2014 and 2019. These countries were selected to ensure continuity with prior research and to capture regional diversity in European cinema.
+The foundational dataset was derived from the LUMIERE database (https://lumiere.obs.coe.int/), which includes detailed records of films produced in Austria, Croatia, France, Germany, Italy, Sweden, and the United Kingdom between 2014 and 2019. These countries were selected to ensure continuity with prior research and to capture regional diversity in European cinema.
 The combined dataset for these countries and years is available in the file named lumiere.xlsx.
 
 To conduct the analysis, additional attributes were incorporated from the IMDb datasets, specifically from the following files:
